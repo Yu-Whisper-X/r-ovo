@@ -1,0 +1,15 @@
+{
+  "name": "Raven应用",
+  "short_name": "Raven",
+  "start_url": "index.html",
+  "display": "standalone", // 独立应用样式
+  "background_color": "#000000", // 启动页黑色
+  "theme_color": "#000000", // 主题色黑色
+  "icons": [
+    {
+      "src": "https://tc-new.z.wiki/autoupload/f/fRcoPlzpthEzwh0RrI62JbKXl_QqVl-bpSwqP4fJO68/20250825/5nvZ/1280X1280/3d8950a849829447f24466a851153f8f.jpg/webp",
+      "sizes": "1280x1280",
+      "type": "image/webp"
+    }
+  ]
+}
